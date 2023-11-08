@@ -23,7 +23,7 @@ The physical therapists at Back in Motion Physical Therapy have advanced trainin
 
 For our existing patients, nothing will change. You will still be able to visit the same clinic and work with the same physical therapists. <br/><br/>
 
-We are grateful for your trust and support, and we look forward to continuing to serve you as part of the Back in Motion Physical Therapy family. 
+We are very grateful for your trust and support, and we look forward to continuing to serve you as part of the Back in Motion Physical Therapy family. 
       </p>
       <Link
         className="inline-flex h-10 items-center justify-center rounded-md bg-cyan-900 px-16 py-8 text-xl font-medium text-zinc-50 shadow transition-colors hover:bg-zinc-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-zinc-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-cyan-900 dark:hover:bg-cyan-900 dark:focus-visible:ring-zinc-300"
